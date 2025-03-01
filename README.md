@@ -51,12 +51,12 @@ Iniciei minha trajetória no universo da programação atuando como montadora de
   ![Loja Apple](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
   
   #### Versionamentos
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   
   #### Prototyping
-  ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-black?style=flat&logo=adobe-xd&logoColor=ff0000)&nbsp;
-  ![Figma](https://img.shields.io/badge/-Figma-black?style=flat&logo=figma)&nbsp;  
+  ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 </details>
 
 #### Sobre meu trabalho atual
