@@ -68,14 +68,10 @@ Também tenho como meta no ano Ler o livro Clean Code e estou fazendo curso de V
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,apple,ruby,rails,py,mysql,postgres,git,github,figma,xd)](https://skillicons.dev) -->
 
-
-
 <div>
   <a href="https://github.com/scheillaartifon">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=scheillaartifon&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheillaartifon&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=scheillaartifon&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheillaartifon&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)
+<div>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)</div>
