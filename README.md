@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scheillaartifon
-- 🔭 I’m currently working as Frontend Developer
+- 🔭 I’m currently working as Full Stack Developer
 - 🌱 I’m currently learning UX Design
 
 <!---
