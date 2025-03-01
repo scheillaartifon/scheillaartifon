@@ -19,7 +19,7 @@
 </div>
 
 #### Um pouco sobre mim
-Uma pessoa alegre, criativa, organizada e proativa que adora a vida e uma aventura. Além disso, tenho um profundo amor pela leitura e pelos 🐱 animais.
+Uma pessoa alegre, criativa, organizada e proativa que adora a vida e uma aventura. Além disso, tenho um profundo amor pela leitura e pelos animais.
 
 Iniciei minha trajetória no universo da programação atuando como montadora de sites, o que me permitiu adquirir um amplo conhecimento em front-end. Tenho habilidades sólidas para transformar designs de telas em código, conseguindo replicar fielmente os layouts, mesmo sem o auxílio de frameworks.
 
