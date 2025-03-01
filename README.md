@@ -74,4 +74,4 @@ Também tenho como meta no ano Ler o livro Clean Code e estou fazendo curso de V
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheillaartifon&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
-<div>![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)
