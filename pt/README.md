@@ -1,5 +1,9 @@
 # Olá! Bem vindo(a)! Me chamo Scheilla 🌿🥊🏋🥎
 
+<h6 align="right">
+  <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/README.md"> 🇺🇸 English</a>
+</h6>
+
 ## Um pouco sobre mim ✌️
 👩🏻‍💻 Minha jornada na programação começou com a construção de sites, transformando designs em código com precisão. Desde então, minha paixão pelo front-end só cresceu, mas ao longo do tempo me tornei uma desenvolvedora full stack, buscando sempre aprender novas tecnologias que me desafiem e me lembrem do motivo pelo qual amo programar. Recentemente, enfrentei o desafio de configurar e implantar uma aplicação na Google Cloud, o que ampliou meu entendimento sobre infraestrutura e deployment.
 
