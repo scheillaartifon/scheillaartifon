@@ -38,6 +38,8 @@
 ✍️ Medium: https://medium.com/@sgartifon2405 <br>
 💻 Portfólio: https://scheillaartifon.github.io <br>
 
-<div>
+<div align="right">
+  
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)
+
 </div>
