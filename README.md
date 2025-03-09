@@ -1,4 +1,4 @@
-# Olá! Bem vindo(a)! Me chamo Scheilla
+# Olá! Bem vindo(a)! Me chamo Scheilla 🚀📚
 
 #### Um pouco sobre mim
 Uma pessoa alegre, criativa, organizada e proativa que adora a vida e uma aventura. Além disso, tenho um profundo amor pela leitura e pelos animais.
@@ -16,8 +16,8 @@ Também tenho como meta no ano Ler o livro Clean Code e estou fazendo curso de V
 
 <div>
   <a href="https://github.com/scheillaartifon">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=scheillaartifon&show_icons=true&theme=dark&hide_border=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheillaartifon&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scheillaartifon&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheillaartifon&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
 <div>
