@@ -1,23 +1,23 @@
-# Olá! Bem vindo(a)! Me chamo Scheilla 🌿🥊🏋🥎
+# Hello! Welcome! My name is Scheilla 🌿🥊🏋🥎
 
-## Um pouco sobre mim ✌️
-👩🏻‍💻 Minha jornada na programação começou com a construção de sites, transformando designs em código com precisão. Desde então, minha paixão pelo front-end só cresceu, mas ao longo do tempo me tornei uma desenvolvedora full stack, buscando sempre aprender novas tecnologias que me desafiem e me lembrem do motivo pelo qual amo programar. Recentemente, enfrentei o desafio de configurar e implantar uma aplicação na Google Cloud, o que ampliou meu entendimento sobre infraestrutura e deployment.
+## A little about me ✌️
+👩🏻‍💻 My journey in programming started with building websites, turning designs into code with precision. Since then, my passion for front-end has only grown, but over time I’ve become a full stack developer, always looking to learn new technologies that challenge me and remind me why I love programming. Recently, I faced the challenge of configuring and deploying an application on Google Cloud, which expanded my understanding of infrastructure and deployment.
 
-🎨 Além disso, sou UX Designer e continuo explorando esse campo fascinante, que não só melhora o meu trabalho diário, mas também enriquece a maneira como vejo a interação entre tecnologia e usuário.
+🎨 Additionally, I am a UX Designer and continue to explore this fascinating field, which not only improves my daily work but also enriches the way I see the interaction between technology and the user.
 
-## Sobre meu trabalho atual 💻
-🚀 Desenvolvedora Web Full-Stack na Cfaz.net, um sistema de radiologia, onde sou responsável por resolver bugs, implementar melhorias e garantir uma excelente experiência do usuário. Além de pegar cards da fila de desenvolvimento, também colaboro com colegas em pesquisas para identificar melhorias e otimizar o sistema.
+## About my current work 💻
+🚀 Full-Stack Web Developer at Cfaz.net, a radiology system, where I’m responsible for resolving bugs, implementing improvements, and ensuring an excellent user experience. In addition to picking cards from the development queue, I also collaborate with colleagues on research to identify improvements and optimize the system.
 
-🔍 Utilizo ferramentas como Hotjar para analisar se as funcionalidades atendem aos objetivos e se os usuários conseguem realizar as ações desejadas com facilidade.
+🔍 I use tools like Hotjar to analyze if the features meet objectives and if users can easily perform the desired actions.
 
-📱 Também sou a principal responsável pelos Progressive Web Apps (PWAs) que publico nas lojas da Google e Apple, garantindo a melhor performance e experiência para os usuários.
+📱 I’m also the main person responsible for Progressive Web Apps (PWAs) that I publish on the Google and Apple stores, ensuring the best performance and user experience.
 
-## O que ando estudando 📚
-🎓 Último ano de graduação em Análise e Desenvolvimento de Sistemas na PUCPR.
+## What I’m currently studying 📚
+🎓 Last year of my degree in Systems Analysis and Development at PUCPR.
 
-📚 Este ano, minha meta é ler o livro Clean Code para aprimorar ainda mais minhas habilidades de programação e melhorar a qualidade do código que escrevo.
+📚 This year, my goal is to read Clean Code to further enhance my programming skills and improve the quality of the code I write.
 
-🔧 Além disso, estou fazendo um curso de Vue para expandir meus conhecimentos em desenvolvimento front-end e me manter atualizada com as melhores práticas.
+🔧 In addition, I am taking a Vue course to expand my knowledge in front-end development and stay up-to-date with best practices.
 
 ## 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,ruby,rails,py,java,php,mysql,postgres,gcp,git,github,figma,xd,apple&theme=light)](https://skillicons.dev)
