@@ -1,5 +1,9 @@
 # Hello! Welcome! My name is Scheilla 🌿🥊🏋🥎
 
+<h6 align="right">
+  <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/pt/README.md"> 🇧🇷 Português</a>
+</h6>
+
 ## A little about me ✌️
 👩🏻‍💻 My journey in programming started with building websites, turning designs into code with precision. Since then, my passion for front-end has only grown, but over time I’ve become a full stack developer, always looking to learn new technologies that challenge me and remind me why I love programming. Recently, I faced the challenge of configuring and deploying an application on Google Cloud, which expanded my understanding of infrastructure and deployment.
 
@@ -34,4 +38,6 @@
 ✍️ Medium: https://medium.com/@sgartifon2405 <br>
 💻 Portfólio: https://scheillaartifon.github.io <br>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)
+<div>
+  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)
+</div>
