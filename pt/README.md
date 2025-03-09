@@ -1,4 +1,4 @@
-# Olá! Bem vindo(a)! Me chamo Scheilla 🌿🥊🏋🥎
+# Olá! Bem vindo(a)! Me chamo Scheilla 🌿🥊🧘🏻‍♀️🥎
 
 <h6 align="right">
   <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/README.md"> 🇺🇸 English</a>
