@@ -1,4 +1,4 @@
-# Hello! Welcome! My name is Scheilla 🌿🥊🏋🥎
+# Hello! Welcome! My name is Scheilla 🌿🥊🧘🏻‍♀️🥎
 
 <h6 align="right">
   <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/pt/README.md"> 🇧🇷 Português</a>
