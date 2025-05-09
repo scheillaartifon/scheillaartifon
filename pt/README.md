@@ -9,14 +9,14 @@
 🎨 UX Designer.
 
 ## Sobre meu trabalho atual 💻
-🚀 Desenvolvedora Web Full-Stack na Cfaz.net, sistema de radiologia odontologica.  <br>
-🔍 Utilizo ferramentas como Hotjar para analisar se as funcionalidades atendem aos objetivos e se os usuários conseguem realizar as ações desejadas com facilidade. <br>
+🚀 Desenvolvedora Web Full-Stack na Cfaz.net, sistema de radiologia odontologica. <br>
+🎨 Criadora de interfaces (Ui Design) de novas funcionalidades. <br>
 📱 Criadora dos Progressive Web Apps (PWAs) nas lojas da Google e Apple.
 
 ## O que ando estudando 📚
 🎓 Último ano de graduação em Análise e Desenvolvimento de Sistemas na PUCPR. <br>
 📚 Minha leitura atual é Clean Code. <br>
-🔧 Curso de Vue para complementar meus aprendizados em front-end.
+🔧 Fazendo curso de Vue para complementar meus aprendizados em front-end.
 
 ##
 <div>
