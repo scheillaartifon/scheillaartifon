@@ -1,4 +1,5 @@
-# Hello! Welcome! My name is Scheilla 🌿🥊🧘🏻‍♀️🥎
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D99B9B&height=120&section=header"/>
+
 
 <h6 align="right">
   <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/pt/README.md"> 🇧🇷 Português</a>
@@ -18,17 +19,15 @@
 📚 Currently reading Clean Code. <br>
 🔧 Taking a Vue course to complement my front-end skills.
 
-## 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,ruby,rails,py,java,php,mysql,postgres,gcp,git,github,figma,xd,apple&theme=light)](https://skillicons.dev)
-
+##
 <div>
   <a href="https://github.com/scheillaartifon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scheillaartifon&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheillaartifon&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
-<div align="right">
-  
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)
+## 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,ruby,rails,py,java,php,mysql,postgres,gcp,git,github,figma,xd,apple&theme=light)](https://skillicons.dev)
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D99B9B&height=120&section=footer"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
