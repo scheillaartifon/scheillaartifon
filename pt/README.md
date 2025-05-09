@@ -3,19 +3,20 @@
 <h6 align="right">
   <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/README.md"> 🇺🇸 English</a>
 </h6>
+
 ## Sobre mim
-👩🏻‍💻 Desenvolvedora front-end
-🎨 UX Designer
+👩🏻‍💻 Desenvolvedora front-end. <br>
+🎨 UX Designer.
 
 ## Sobre meu trabalho atual 💻
-🚀 Desenvolvedora Web Full-Stack na Cfaz.net, sistema de radiologia odontologica.
-🔍 Utilizo ferramentas como Hotjar para analisar se as funcionalidades atendem aos objetivos e se os usuários conseguem realizar as ações desejadas com facilidade.
+🚀 Desenvolvedora Web Full-Stack na Cfaz.net, sistema de radiologia odontologica.  <br>
+🔍 Utilizo ferramentas como Hotjar para analisar se as funcionalidades atendem aos objetivos e se os usuários conseguem realizar as ações desejadas com facilidade. <br>
 📱 Criadora dos Progressive Web Apps (PWAs) nas lojas da Google e Apple.
 
 ## O que ando estudando 📚
-🎓 Último ano de graduação em Análise e Desenvolvimento de Sistemas na PUCPR.
-📚 Minha leitura atual é Clean Code.
-🔧 Curso de Vue para complementar meus aprendizados
+🎓 Último ano de graduação em Análise e Desenvolvimento de Sistemas na PUCPR. <br>
+📚 Minha leitura atual é Clean Code. <br>
+🔧 Curso de Vue para complementar meus aprendizados em front-end.
 
 ## 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,ruby,rails,py,java,php,mysql,postgres,gcp,git,github,figma,xd,apple&theme=light)](https://skillicons.dev)
