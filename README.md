@@ -27,12 +27,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scheillaartifon&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
 
-##
-🌐 Linkedin: https://www.linkedin.com/in/scheillagiassonartifon <br>
-📸 Instagram: https://www.instagram.com/scheillaartifon <br>
-✍️ Medium: https://medium.com/@sgartifon2405 <br>
-💻 Portfólio: https://scheillaartifon.github.io <br>
-
 <div align="right">
   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=scheillaartifon)
