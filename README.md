@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D99B9B&height=120&section=header"/>
 
-
 <h6 align="right">
   <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/pt/README.md"> 🇧🇷 Português</a>
 </h6>
@@ -11,13 +10,13 @@
 
 ## About My Current Job 💻
 🚀 Full-Stack Web Developer at Cfaz.net, a dental radiology system. <br>
-🔍 I use tools like Hotjar to analyze whether the features meet their goals and if users can easily perform the desired actions. <br>
+🎨 Creator of user interfaces (UI Design) for new features. <br>
 📱 Creator of the Progressive Web Apps (PWAs) published on the Google and Apple stores.
 
 ## What I'm Currently Studying 📚
 🎓 Final year of my degree in Systems Analysis and Development at PUCPR. <br>
 📚 Currently reading Clean Code. <br>
-🔧 Taking a Vue course to complement my front-end skills.
+🔧 Taking a Vue course to complement my front-end learning.
 
 ##
 <div>
