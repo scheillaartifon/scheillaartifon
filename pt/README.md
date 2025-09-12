@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D99B9B&height=120&section=header"/>
-
 <h6 align="right">
   <a href="https://github.com/scheillaartifon/scheillaartifon/blob/main/README.md"> 🇺🇸 English</a>
 </h6>
