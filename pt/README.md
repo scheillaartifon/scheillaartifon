@@ -32,7 +32,7 @@
 </div>
 
 ##
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,react,ruby,rails,py,java,php,mysql,postgres,gcp,git,github,figma,xd,apple&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,jquery,angular,vue,react,ruby,rails,py,java,php,mysql,postgres,docker,gcp,git,github,figma,xd,apple&theme=light)](https://skillicons.dev)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D99B9B&height=120&section=footer"/>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
